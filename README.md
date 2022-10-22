@@ -4,7 +4,7 @@
 - 👀 I'm curretnly studing at Huazhong University of Science and Technology, Wuhan, China.
 - 🌱 I’m currently learning security, systems and Java development.
 - 💞️ Language mainly used : Java, C/C++.
-- 📫 Reach me at edwardxu2001@gmail.com
+- 📫 Reach me at edwardxu2001 [at] gmail [dot] com
 
 **Detail**
 
