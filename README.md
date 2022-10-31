@@ -4,7 +4,7 @@
 - 👀 I'm an undergraduate from [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Wuhan, China.
 - 🌱 I’m currently working as a back-end developer at [NSFOCUS](https://www.nsfocus.com.cn/), Wuhan.
 - 💞️ Language mainly used : Java, C/C++, Python.
-- 📫 Reach me at edwardxu2001[AT]gmail[DOT]com
+- 📫 Reach me at edwardxu2001@gmail.com
 
 **Detail**
 
