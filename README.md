@@ -1,4 +1,4 @@
-**Intrduction**
+**Introduction**
 
 - 👋 Hi, I’m @ZCXu1
 - 👀 I'm an undergraduate from [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Wuhan, China.
