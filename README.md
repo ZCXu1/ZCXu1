@@ -1,8 +1,8 @@
 **Introduction**
 
 - 👋 Hi, I’m @ZCXu1
-- 👀 I'm an undergraduate from [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Wuhan, China.
-- 🌱 I’m currently working as a R&D engineer intern at [NSFOCUS](https://www.nsfocus.com.cn/), Wuhan.
+- 👀 I'm an undergraduate from Huazhong University of Science and Technology, Wuhan, China.
+- 🌱 I’m currently working as a R&D engineer intern at NSFOCUS, Wuhan.
 
 **Detail**
 
