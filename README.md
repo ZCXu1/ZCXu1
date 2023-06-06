@@ -2,7 +2,8 @@
 
 - 👋 Hi, I’m @ZCXu1
 - 👀 I graduated from Huazhong University of Science and Technology.
-- 🌱 I work as an SDE at Shanghai Dameng Database in July 2023.
+- 🌱 I work as an SDE at Shanghai Dameng Database.
+-
 
 **Detail**
 
