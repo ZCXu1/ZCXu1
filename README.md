@@ -1,8 +1,8 @@
 **Introduction**
 
 - 👋 Hi, I’m @ZCXu1
-- 👀 I'm an undergraduate from Huazhong University of Science and Technology, Wuhan, China.
-- 🌱 I am going to work as an SDE at Shanghai Dameng Database in July 2023.
+- 👀 I graduated from Huazhong University of Science and Technology.
+- 🌱 I work as an SDE at Shanghai Dameng Database in July 2023.
 
 **Detail**
 
